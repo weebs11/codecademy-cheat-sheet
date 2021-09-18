@@ -1,0 +1,17 @@
+* {
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: #f1f1f1;
+}
+
+h1 {
+  color: black;
+  font-weight: 600;
+}
+
+header {
+  text-align: center;
+}
+
+#code-logo {
+  width: 300px;
+}
